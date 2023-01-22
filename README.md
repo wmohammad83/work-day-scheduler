@@ -14,7 +14,7 @@ After completing the logic in the JavaScript file current day is displayed at th
 
 ## Deployment
 
-[Coading Quiz Application - https://wmohammad83.github.io/work-day-scheduler/](https://wmohammad83.github.io/work-day-scheduler/)
+[Work Day Scheduler - https://wmohammad83.github.io/work-day-scheduler/](https://wmohammad83.github.io/work-day-scheduler/)
 
 ## Resources Used
 
